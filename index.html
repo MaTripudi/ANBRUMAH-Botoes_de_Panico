@@ -28,10 +28,16 @@
       color: #007bff;
       /* Cor da ativação */
     }
+    .no-select {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version */
+}
   </style>
 </head>
 
-<body class="d-flex flex-column h-100">
+<body class="d-flex flex-column h-100 no-select>
   <main class="flex-shrink-0">
     <!-- Navigation-->
     <div class="navbar-container">
