@@ -5,4 +5,4 @@ O ANBRUMAH apresenta um portal voltado para a segurança de estudantes e funcion
 ![image](https://github.com/user-attachments/assets/6a798b12-5feb-48c9-9509-292e2ddaad09)
 ![image](https://github.com/user-attachments/assets/8adbb9a7-8dbd-4de1-a336-4c19281aff75)
 ![image](https://github.com/user-attachments/assets/6103acd1-b8fc-4baf-bdab-b2806c7d693c)
-![image](https://github.com/user-attachments/assets/f82eee49-440a-4b53-ac6d-d45a9761df06)
+![image](https://github.com/user-attachments/assets/07741d5f-1a24-47e1-b950-022fb942b38f)
